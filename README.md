@@ -1,7 +1,7 @@
 Proyecto final de backend numen
 
 
-Jugadores:
+----------Jugadores----------
 
 1. GET:
    
@@ -66,7 +66,7 @@ Jugadores:
   
   
   
-Torneo: 
+----------Torneo----------
 
 1. GET: 
 
